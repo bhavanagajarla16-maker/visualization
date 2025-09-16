@@ -1,6 +1,5 @@
 streamlit
-wordcloud
+pandas
 matplotlib
-python-docx
-PyPDF2
 seaborn
+statsmodels
