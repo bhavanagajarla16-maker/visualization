@@ -1,0 +1,5 @@
+streamlit
+wordcloud
+matplotlib
+python-docx
+PyPDF2
