@@ -3,3 +3,4 @@ wordcloud
 matplotlib
 python-docx
 PyPDF2
+seaborn
